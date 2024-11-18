@@ -3,11 +3,11 @@
 # Default Values for Parameters Practice
 
 # 8-3 (T-Shirt)
-# def make_shirt(shirt_size, shirt_text):
+#def make_shirt(shirt_size, shirt_text):
    # print(f'My shirt is a {shirt_size} and has the message "{shirt_text}" written on it.')
 
-# make_shirt("Large", "python is cool")
-# make_shirt(shirt_size = 'Medium', shirt_text= "I like food")
+ #make_shirt("Large", "python is cool")
+ #make_shirt(shirt_size = 'Medium', shirt_text= "I like food")
 # 8-4 (Large Shirts)
 def make_shirt(shirt_text,shirt_size = 'Large'):
     print(f'My shirt is a {shirt_size} and has the message "{shirt_text}" written on it.')
